@@ -2,7 +2,7 @@
 
 module.exports = function (iterable) {
 	if (!iterable) {
-		return Promise.reject(new Error('Expected a iterable'));
+		throw new Error('Expected a iterable');
 	}
 
 	var ret = [];

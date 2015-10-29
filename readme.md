@@ -2,6 +2,8 @@
 
 > Get a iterable as a array
 
+See [`Array.from`](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/from) for more.
+
 
 ## Install
 
