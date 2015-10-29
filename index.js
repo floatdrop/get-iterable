@@ -7,7 +7,7 @@ module.exports = function (iterable) {
 
 	var ret = [];
 
-	for (let item of iterable) {
+	for (var item of iterable) {
 		ret.push(item);
 	}
 
