@@ -1,6 +1,6 @@
 {
   "name": "get-iterable",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get a iterable as a array of items",
   "license": "MIT",
   "repository": "floatdrop/get-iterable",
