@@ -1,0 +1,34 @@
+{
+  "name": "get-iterable",
+  "version": "0.0.0",
+  "description": "Get a iterable as a array of items",
+  "license": "MIT",
+  "repository": "floatdrop/get-iterable",
+  "author": {
+    "name": "Vsevolod Strukchinsky",
+    "email": "floatdrop@gmail.com"
+  },
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "get",
+    "generator",
+    "iterable"
+  ],
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  },
+  "xo": {
+    "ignores": [
+      "test.js"
+    ]
+  }
+}
