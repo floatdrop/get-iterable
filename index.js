@@ -2,7 +2,7 @@
 
 module.exports = function (iterable) {
 	if (!iterable) {
-		throw new Error('Expected a iterable');
+		throw new Error('Expected an iterable');
 	}
 
 	var ret = [];

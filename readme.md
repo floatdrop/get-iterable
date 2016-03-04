@@ -1,6 +1,6 @@
 # get-iterable [![Build Status](https://travis-ci.org/floatdrop/get-iterable.svg?branch=master)](https://travis-ci.org/floatdrop/get-iterable)
 
-> Get a iterable as a array
+> Get an iterable as an array
 
 See [`Array.from`](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/from) for more.
 
@@ -36,7 +36,7 @@ console.log(arr);
 
 ### getIterable(iterable)
 
-Get the iterable as a array.
+Get an iterable as an array.
 
 ## Related
 
